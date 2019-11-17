@@ -1,0 +1,4 @@
+A : flow_from_directory
+B : target_size=(50,50)
+C : batch_size=32
+D : class_mode='categorical'
